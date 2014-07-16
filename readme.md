@@ -14,3 +14,5 @@ Installation:
 2) Activate in Backend
 
 3) To enable multi-level menu you also have to enable "Do not display empty Categories" in Backend (Master Settings/Core Settings/Performance)
+
+See in action: http://zunderweb.de/demoshops/multifilter_xl/
