@@ -1,0 +1,12 @@
+#startbutton {
+    width: 20px;
+    background-image: url(../../img/home.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+    overflow: hidden;
+    text-indent: -9999px;
+}
+
+#startbutton.current, #startbutton:hover {
+    background-image: url(../../img/home_current.png);
+}

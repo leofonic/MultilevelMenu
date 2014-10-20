@@ -1,7 +1,7 @@
 
 OXID-Module "Multilevel Menu"
 -----------------------------------------------
-OXID 4.7.x, 4.8.x
+OXID 4.7.x, 4.8.x, 4.9.x
 
 - Enables multi-level menu structure in top menu
 - Replaces homelink text with a nice image
